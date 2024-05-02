@@ -9,6 +9,6 @@ For more details, please refer to the original paper: [Reconstructing Training D
 
 ### Usage
 - Clone the repository
-- Follow the instructions in the `README.md` file to run the implementation
+- Follow the instructions in the `Jupyter Notebook` file to run the implementation
 
 Feel free to contribute or raise issues if you encounter any problems or have suggestions for improvements.
