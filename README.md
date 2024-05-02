@@ -5,7 +5,7 @@ This repository contains a minimal implementation of a training data reconstruct
 
 The attack aims to reconstruct training data examples using information about the model's predictions, posing a threat to the privacy of sensitive data used for training machine learning models.
 
-For more details, please refer to the original paper: [Reconstructing Training Data with Informed Adversaries](https://doi.ieeecomputersociety.org/10.1109/SP46214.2022.00127) by B. Balle, G. Cherubin, and J. Hayes.
+For more details, please refer to the original paper: [Reconstructing Training Data with Informed Adversaries](https://arxiv.org/abs/2201.04845) by B. Balle, G. Cherubin, and J. Hayes.
 
 ### Usage
 - Clone the repository
